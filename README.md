@@ -71,4 +71,4 @@ Freelance web geliştiriciler, ajanslar ve birden fazla müşteri adına domain/
 
 ## Lisans
 
-Bu proje **MIT Lisansı** ile açık kaynak olarak paylaşılmıştır. Dilediğiniz gibi kullanabilir, uyarlayabilir ve geliştirebilirsiniz.
+Bu proje **MIT Lisansı** ile açık kaynak olarak paylaşılmıştır. Dilediğiniz gibi kullanabilir, uyarlayabilir ve geliştirebilirsiniz. [Barış UÇAR ] (https://www.barisucar.com)
