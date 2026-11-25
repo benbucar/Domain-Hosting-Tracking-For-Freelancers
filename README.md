@@ -3,6 +3,11 @@
 > 🇬🇧 English | [🇹🇷 Türkçe](#-türkçe)
 
 A **lightweight, fast, database-free** PHP & Vanilla JS dashboard designed for freelance web developers, agencies, and anyone managing domains and hosting services for multiple clients.
+## Screenshots
+
+| Login Screen | Dashboard |
+| --- | --- |
+| ![Login Screen](login.png) | ![Dashboard](system.png) |
 
 ## Features
 
