@@ -190,7 +190,7 @@ if (!$isLoggedIn) {
     </main>
 
     <footer class="footer">
-      <span>Veriler korumalı <code>data/records.json</code> dosyasında saklanır · domain.com</span>
+      <span>Veriler korumalı <code>data/records.json</code> dosyasında saklanır · barisucar.com</span>
     </footer>
   </div>
 
